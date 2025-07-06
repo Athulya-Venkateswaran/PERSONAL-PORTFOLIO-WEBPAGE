@@ -16,7 +16,7 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 OUTPUT (1): <img width="1362" height="650" alt="Image" src="https://github.com/user-attachments/assets/4af60f4d-61b7-4cae-afb3-3900ac46b82f" />
 
-OUTPUT (2):
+OUTPUT (2): <img width="1362" height="635" alt="Image" src="https://github.com/user-attachments/assets/9b69d23c-ac15-4843-aa1d-c52954c479d1" />
 
 OUTPUT (3): 
 
